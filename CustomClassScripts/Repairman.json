@@ -1,0 +1,15 @@
+{
+    "IsRobber": false,
+    "DisplayName": "Repairman",
+    "ClothingRowName": "Cop_1",
+    "AbilityName": "Repair",
+    "AbilityDescription": "Repair a broken wall or vault door",
+    "AbilityIcon": "placeholder.png",
+    "AbilityCooldown": 30.0,
+    "PassiveName": "Placeholder",
+    "PassiveDescription": "Placeholder",
+    "PassiveIcon": "placeholder.png",
+    "PrimaryWeapon": 4,
+    "SecondaryWeapon": 38,
+    "ClassCategory": 0
+}
