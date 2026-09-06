@@ -1,0 +1,15 @@
+{
+    "IsRobber": false,
+    "DisplayName": "Bomb Defusal",
+    "ClothingRowName": "Cop_1",
+    "AbilityName": "Defuse",
+    "AbilityDescription": "Can remove a dropped bomb bag",
+    "AbilityIcon": "pliers.png",
+    "AbilityCooldown": 30.0,
+    "PassiveName": "Bombproof",
+    "PassiveDescription": "Reduces explosive damage taken",
+    "PassiveIcon": "antiExplode.png",
+    "PrimaryWeapon": 6,
+    "SecondaryWeapon": 4, 
+    "ClassCategory": 0
+}
